@@ -1,7 +1,7 @@
 ## Hi there 🎃, I'm ZenonFS!
 
 ### Skills
-React | Angular 8+ | Flutter | NodeJS | Python
+React | Angular 8+ | Flutter | NodeJS
 
 😎 I’m currently working as a Indexer
 
