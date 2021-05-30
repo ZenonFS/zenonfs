@@ -1,4 +1,4 @@
-## Hi there🎃, I'm ZenonFS!
+## Hi there 🎃, I'm ZenonFS!
 
 ### Skills
 React | Angular 8+ | Flutter | NodeJS | Python
