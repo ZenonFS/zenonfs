@@ -1,4 +1,4 @@
-## Hi there 🎃, I'm ZenonFS!
+## Hi there!, I'm Santiago Suárez, also called ZenonFS.
 
 ### Skills
 React | Angular 8+ | Flutter | NodeJS
@@ -10,10 +10,10 @@ React | Angular 8+ | Flutter | NodeJS
 
 Here are some ideas to get you started:
 
-😎 I’m currently working as a Indexer
+😎 I’m currently working as a DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Axcel Sofware
+- 🌱 I’m currently learning Deep Typescript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
